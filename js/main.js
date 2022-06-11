@@ -1,7 +1,7 @@
 let gameManager = new GameManager();
 let waitForAnswer = false;
 
-$.getJSON("../card_database.json", function (data) {
+$.getJSON("card_database.json", function (data) {
   gameManager.setCardDatabase(data);
 
   $("#message-container").hide();
