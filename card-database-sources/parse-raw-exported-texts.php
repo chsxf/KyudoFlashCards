@@ -17,9 +17,18 @@ for ($i = 0; $i < $pageCount; $i++) {
         $conceptIndex = $baseOffset + $j;
         $solutionIndex = $conceptIndex + $perPageCount + (($j % 2 == 0) ? 1 : -1);
 
+        $longSolution = $blocks[$solutionIndex];
+
+        $shortSolutionChunks = explode('.', $longSolution, 2);
+        $shortSolution = $shortSolutionChunks[0];
+        if (count($shortSolutionChunks) > 1) {
+            $shortSolution .= '.';
+        }
+
         $cards[] = [
             'concept' => $blocks[$conceptIndex],
-            'solution' => $blocks[$solutionIndex]
+            'solution' => $longSolution,
+            'short_solution' => $shortSolution
         ];
     }
 }

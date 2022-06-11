@@ -1,402 +1,502 @@
 [
     {
         "concept": "Ashibumi (\u8db3\u8e0f\u307f)",
-        "solution": "Enracinement des pieds. Premi\u00e8re \u00e9tape du tir.  \nP59-60-61, 127, 128"
+        "solution": "Enracinement des pieds. Premi\u00e8re \u00e9tape du tir.  \nP59-60-61, 127, 128",
+        "short_solution": "Enracinement des pieds."
     },
     {
         "concept": "Azuchi (\u5b89\u571f)",
-        "solution": "Banc de sable pour accueillir les cibles. \nP79,95,124"
+        "solution": "Banc de sable pour accueillir les cibles. \nP79,95,124",
+        "short_solution": "Banc de sable pour accueillir les cibles."
     },
     {
         "concept": "Daisan (\u5927\u4e09)",
-        "solution": "Position interm\u00e9diaire du Hikiwake d\u00e9veloppant un tiers de l\u2019extension.Abr\u00e9viation de Oshi Daimoku Hike Sanbun no Ichi : litt\u00e9ralement pousser (Oshi) beaucoup plus (Daimoku), tirer (Hike) un tiers (Sanbun no ichi). \nP65, 66, 67, 131"
+        "solution": "Position interm\u00e9diaire du Hikiwake d\u00e9veloppant un tiers de l\u2019extension.Abr\u00e9viation de Oshi Daimoku Hike Sanbun no Ichi : litt\u00e9ralement pousser (Oshi) beaucoup plus (Daimoku), tirer (Hike) un tiers (Sanbun no ichi). \nP65, 66, 67, 131",
+        "short_solution": "Position interm\u00e9diaire du Hikiwake d\u00e9veloppant un tiers de l\u2019extension."
     },
     {
         "concept": "D\u00f4zukuri (\u80f4\u9020\u308a)",
-        "solution": "Affermissement du buste. Deuxi\u00e8me \u00e9tape du tir. \nP61-62, 74,128"
+        "solution": "Affermissement du buste. Deuxi\u00e8me \u00e9tape du tir. \nP61-62, 74,128",
+        "short_solution": "Affermissement du buste."
     },
     {
         "concept": "Giriko (\u30ae\u30ea\u7c89)",
-        "solution": "Poudre pour le gant ; \u00e0 base de r\u00e9sine de pin."
+        "solution": "Poudre pour le gant ; \u00e0 base de r\u00e9sine de pin.",
+        "short_solution": "Poudre pour le gant ; \u00e0 base de r\u00e9sine de pin."
     },
     {
         "concept": "Hakama (\u88b4)",
-        "solution": "Pantalon large traditionnel. \nP49, 51, 52, 120"
+        "solution": "Pantalon large traditionnel. \nP49, 51, 52, 120",
+        "short_solution": "Pantalon large traditionnel."
     },
     {
         "concept": "Hanare (\u96e2\u308c)",
-        "solution": "D\u00e9coche. Septi\u00e8me \u00e9tape du tir. \nP25, 27, 57, 59, 65, 70, 71-72, 133"
+        "solution": "D\u00e9coche. Septi\u00e8me \u00e9tape du tir. \nP25, 27, 57, 59, 65, 70, 71-72, 133",
+        "short_solution": "D\u00e9coche."
     },
     {
         "concept": "Hanshi (\u7bc4\u58eb)",
-        "solution": "Ma\u00eetre. Titre le plus \u00e9lev\u00e9 de la hi\u00e9rarchie, d\u00e9cern\u00e9 par cooptation parmi les 8e dan.\n P125"
+        "solution": "Ma\u00eetre. Titre le plus \u00e9lev\u00e9 de la hi\u00e9rarchie, d\u00e9cern\u00e9 par cooptation parmi les 8e dan.\n P125",
+        "short_solution": "Ma\u00eetre."
     },
     {
         "concept": "Hara (\u8179)",
-        "solution": "R\u00e9gion abdominale, si\u00e8ge de l\u2019\u00e9nergie vitale (Ki). P132"
+        "solution": "R\u00e9gion abdominale, si\u00e8ge de l\u2019\u00e9nergie vitale (Ki). P132",
+        "short_solution": "R\u00e9gion abdominale, si\u00e8ge de l\u2019\u00e9nergie vitale (Ki)."
     },
     {
         "concept": "Hassetsu",
-        "solution": "Les huit \u00e9tapes du tir."
+        "solution": "Les huit \u00e9tapes du tir.",
+        "short_solution": "Les huit \u00e9tapes du tir."
     },
     {
         "concept": "Hazu (\u7b48)",
-        "solution": "Encoche de la fl\u00e8che. \nP122"
+        "solution": "Encoche de la fl\u00e8che. \nP122",
+        "short_solution": "Encoche de la fl\u00e8che."
     },
     {
         "concept": "Haya (\u7532\u77e2)",
-        "solution": "Premi\u00e8re fl\u00e8che de la paire utilis\u00e9e. La courbe des plumes est dans le sens inverse des aiguilles d\u2019une montre.\n P53, 55, 81, 82, 84, 85, 86, 87, 89, 90, 92, 97, 100, 101, 103, 107, 108, 116"
+        "solution": "Premi\u00e8re fl\u00e8che de la paire utilis\u00e9e. La courbe des plumes est dans le sens inverse des aiguilles d\u2019une montre.\n P53, 55, 81, 82, 84, 85, 86, 87, 89, 90, 92, 97, 100, 101, 103, 107, 108, 116",
+        "short_solution": "Premi\u00e8re fl\u00e8che de la paire utilis\u00e9e."
     },
     {
         "concept": "Hikiwake (\u5f15\u5206\u3051)",
-        "solution": "Ouverture de l\u2019arc. Cinqui\u00e8me \u00e9tape du tir. \nP25, 59, 65-66-67, 68 74,131"
+        "solution": "Ouverture de l\u2019arc. Cinqui\u00e8me \u00e9tape du tir. \nP25, 59, 65-66-67, 68 74,131",
+        "short_solution": "Ouverture de l\u2019arc."
     },
     {
         "concept": "Heij\u00f4shin (\u5e73\u5e38\u5fc3)",
-        "solution": "Etat d\u2019esprit normal (de tous les jours), c\u2019est-\u00e0-dire calme, bien \u00e9quilibr\u00e9, avec un contr\u00f4le du stress ext\u00e9rieur.\n P20, 70"
+        "solution": "Etat d\u2019esprit normal (de tous les jours), c\u2019est-\u00e0-dire calme, bien \u00e9quilibr\u00e9, avec un contr\u00f4le du stress ext\u00e9rieur.\n P20, 70",
+        "short_solution": "Etat d\u2019esprit normal (de tous les jours), c\u2019est-\u00e0-dire calme, bien \u00e9quilibr\u00e9, avec un contr\u00f4le du stress ext\u00e9rieur."
     },
     {
         "concept": "Honza (\u672c\u5ea7)",
-        "solution": "Ligne pour la position de base dans le dojo.\n P38, 47, 78, 79, 80, 81, 82, 83, 84, 91, 92, 93, 96, 97, 98, 99, 100, 101, 102, 103, 104, 106, 107, 108, 110, 111, 114, 117, 124"
+        "solution": "Ligne pour la position de base dans le dojo.\n P38, 47, 78, 79, 80, 81, 82, 83, 84, 91, 92, 93, 96, 97, 98, 99, 100, 101, 102, 103, 104, 106, 107, 108, 110, 111, 114, 117, 124",
+        "short_solution": "Ligne pour la position de base dans le dojo."
     },
     {
         "concept": "Hirakiashi (\u958b\u304d\u8db3)",
-        "solution": "Action de tourner \u00e0 genoux \u00e0 90\u00b0. \nP29, 40-41-42, 96, 112"
+        "solution": "Action de tourner \u00e0 genoux \u00e0 90\u00b0. \nP29, 40-41-42, 96, 112",
+        "short_solution": "Action de tourner \u00e0 genoux \u00e0 90\u00b0."
     },
     {
         "concept": "Itote gyosha",
-        "solution": "Tir de pr\u00e9sentation (pour le d\u00e9but d\u2019un stage)."
+        "solution": "Tir de pr\u00e9sentation (pour le d\u00e9but d\u2019un stage).",
+        "short_solution": "Tir de pr\u00e9sentation (pour le d\u00e9but d\u2019un stage)."
     },
     {
         "concept": "Ikasu (\u751f\u304b\u3059)",
-        "solution": "Action de rendre le genou \u00ab vivant \u00bb en le soulevant. \nP34 37, 40, 50, 79, 80, 81, 82, 112"
+        "solution": "Action de rendre le genou \u00ab vivant \u00bb en le soulevant. \nP34 37, 40, 50, 79, 80, 81, 82, 112",
+        "short_solution": "Action de rendre le genou \u00ab vivant \u00bb en le soulevant."
     },
     {
         "concept": "Kake \/ Yugake",
-        "solution": "Gant."
+        "solution": "Gant.",
+        "short_solution": "Gant."
     },
     {
         "concept": "Kai",
-        "solution": "Union. Sixi\u00e8me \u00e9tape du tir. \nP25, 27, 56, 57, 59, 64, 65, 67-68-69-70-71, 74, 131, 132"
+        "solution": "Union. Sixi\u00e8me \u00e9tape du tir. \nP25, 27, 56, 57, 59, 64, 65, 67-68-69-70-71, 74, 131, 132",
+        "short_solution": "Union."
     },
     {
         "concept": "Ki (\u6c17)",
-        "solution": "Energie vitale et spirituelle. \nP56, 58, 70"
+        "solution": "Energie vitale et spirituelle. \nP56, 58, 70",
+        "short_solution": "Energie vitale et spirituelle."
     },
     {
         "concept": "Keikogi",
-        "solution": "V\u00eatement d\u2019entra\u00eenement."
+        "solution": "V\u00eatement d\u2019entra\u00eenement.",
+        "short_solution": "V\u00eatement d\u2019entra\u00eenement."
     },
     {
         "concept": "Kiza (\u8dea\u5750)",
-        "solution": "Position \u00e0 genoux, les orteils repli\u00e9s. \nP29, 34-35, 36, 37, 40, 41, 48,49, 79, 80, 81, 82, 86, 89, 92, 95, 96, 97, 98, 100, 101, 102, 103, 106, 107, 108, 109, 110, 112, 115"
+        "solution": "Position \u00e0 genoux, les orteils repli\u00e9s. \nP29, 34-35, 36, 37, 40, 41, 48,49, 79, 80, 81, 82, 86, 89, 92, 95, 96, 97, 98, 100, 101, 102, 103, 106, 107, 108, 109, 110, 112, 115",
+        "short_solution": "Position \u00e0 genoux, les orteils repli\u00e9s."
     },
     {
         "concept": "Kinteki (\u8fd1\u7684)",
-        "solution": "Cible proche. D\u00e9signe soit la cible standard de 36 cm, soit une petite cible recouverte de papier dor\u00e9, de diam\u00e8tre 3 sun. \nP118"
+        "solution": "Cible proche. D\u00e9signe soit la cible standard de 36 cm, soit une petite cible recouverte de papier dor\u00e9, de diam\u00e8tre 3 sun. \nP118",
+        "short_solution": "Cible proche."
     },
     {
         "concept": "Kuchiwari (\u53e3\u5272\u308a)",
-        "solution": "Niveau de la fl\u00e8che en Kai, sur le dessus de la l\u00e8vre sup\u00e9rieure.\n P66, 68"
+        "solution": "Niveau de la fl\u00e8che en Kai, sur le dessus de la l\u00e8vre sup\u00e9rieure.\n P66, 68",
+        "short_solution": "Niveau de la fl\u00e8che en Kai, sur le dessus de la l\u00e8vre sup\u00e9rieure."
     },
     {
         "concept": "K\u00f4hai",
-        "solution": "Personne moins exp\u00e9riment\u00e9e."
+        "solution": "Personne moins exp\u00e9riment\u00e9e.",
+        "short_solution": "Personne moins exp\u00e9riment\u00e9e."
     },
     {
         "concept": "Ky\u00f4shi (\u6559\u58eb)",
-        "solution": "Titre d\u2019enseignant."
+        "solution": "Titre d\u2019enseignant.",
+        "short_solution": "Titre d\u2019enseignant."
     },
     {
         "concept": "Kuraidori",
-        "solution": "Prendre ses marques dans le dojo, sans gant, sans fl\u00e8che, ni arc. Rien dans les mains."
+        "solution": "Prendre ses marques dans le dojo, sans gant, sans fl\u00e8che, ni arc. Rien dans les mains.",
+        "short_solution": "Prendre ses marques dans le dojo, sans gant, sans fl\u00e8che, ni arc."
     },
     {
         "concept": "Ky\u00fbd\u00f4jin (\u5f13\u9053\u4eba)",
-        "solution": "Pratiquant de Ky\u00fbd\u00f4 (idem Ky\u00fbd\u00f4ka). \nP10"
+        "solution": "Pratiquant de Ky\u00fbd\u00f4 (idem Ky\u00fbd\u00f4ka). \nP10",
+        "short_solution": "Pratiquant de Ky\u00fbd\u00f4 (idem Ky\u00fbd\u00f4ka)."
     },
     {
         "concept": "Kusune",
-        "solution": "M\u00e9lange de r\u00e9sine de pin et d'huile utilis\u00e9  lors de l'entretien de la corde ou pour le  nagajikake."
+        "solution": "M\u00e9lange de r\u00e9sine de pin et d'huile utilis\u00e9  lors de l'entretien de la corde ou pour le  nagajikake.",
+        "short_solution": "M\u00e9lange de r\u00e9sine de pin et d'huile utilis\u00e9  lors de l'entretien de la corde ou pour le  nagajikake."
     },
     {
         "concept": "Makiwara (\u5dfb\u85c1)",
-        "solution": "Cible en paille pour l\u2019entra\u00eenement. Utilis\u00e9e pour pratiquer Shajutsu.\n P78, 87, 88, 89, 90, 119-120"
+        "solution": "Cible en paille pour l\u2019entra\u00eenement. Utilis\u00e9e pour pratiquer Shajutsu.\n P78, 87, 88, 89, 90, 119-120",
+        "short_solution": "Cible en paille pour l\u2019entra\u00eenement."
     },
     {
         "concept": "Mato (\u7684)",
-        "solution": "Cible \nP78"
+        "solution": "Cible \nP78",
+        "short_solution": "Cible \nP78"
     },
     {
         "concept": "Mete (\u99ac\u624b \u2013 \u59bb\u624b)",
-        "solution": "Main droite ; se dit aussi Katte. \nPXI, 25, 67"
+        "solution": "Main droite ; se dit aussi Katte. \nPXI, 25, 67",
+        "short_solution": "Main droite ; se dit aussi Katte."
     },
     {
         "concept": "Mezukai (\u76ee\u3065\u304b\u3044)\nse dit aussi Metsuke ou Metsukai.",
-        "solution": "Regard"
+        "solution": "Regard",
+        "short_solution": "Regard"
     },
     {
         "concept": "Mitori geiko",
-        "solution": "Etude en regardant les autres tirer et en \u00e9coutant les conseils du Sensei ; litt\u00e9ralement, entra\u00eenement par le regard."
+        "solution": "Etude en regardant les autres tirer et en \u00e9coutant les conseils du Sensei ; litt\u00e9ralement, entra\u00eenement par le regard.",
+        "short_solution": "Etude en regardant les autres tirer et en \u00e9coutant les conseils du Sensei ; litt\u00e9ralement, entra\u00eenement par le regard."
     },
     {
         "concept": "Monomi (\u7269\u898b)",
-        "solution": "Regard vers la cible.\n P30, 51, 58, 62, 73, 81, 84, 85, 97, 99, 102, 103, 104, 107, 129, 133"
+        "solution": "Regard vers la cible.\n P30, 51, 58, 62, 73, 81, 84, 85, 97, 99, 102, 103, 104, 107, 129, 133",
+        "short_solution": "Regard vers la cible."
     },
     {
         "concept": "Mushin",
-        "solution": "Esprit naturellement vide ( \u00ab sans ego \u00bb )."
+        "solution": "Esprit naturellement vide ( \u00ab sans ego \u00bb ).",
+        "short_solution": "Esprit naturellement vide ( \u00ab sans ego \u00bb )."
     },
     {
         "concept": "Nakajikake",
-        "solution": "Section de la corde renforc\u00e9e avec des fibres de jute o\u00f9 la fl\u00e8che est encoch\u00e9e.\n P121"
+        "solution": "Section de la corde renforc\u00e9e avec des fibres de jute o\u00f9 la fl\u00e8che est encoch\u00e9e.\n P121",
+        "short_solution": "Section de la corde renforc\u00e9e avec des fibres de jute o\u00f9 la fl\u00e8che est encoch\u00e9e."
     },
     {
         "concept": "Nerai",
-        "solution": "Vis\u00e9e. \n\t\u2022\tla cible appara\u00eet compl\u00e8tement \u00e0 gauche de l\u2019arc : Ariake (lune p\u00e2le encore visible \u00e0 l\u2019aube)\n\t\u2022\tla cible est \u00e0 demi cach\u00e9e par l\u2019arc : Hangetsu (demi-lune)\n\t\u2022\tla cible est masqu\u00e9e par l\u2019arc : Yami (obscurit\u00e9).\nP58, 71, 74"
+        "solution": "Vis\u00e9e. \n\t\u2022\tla cible appara\u00eet compl\u00e8tement \u00e0 gauche de l\u2019arc : Ariake (lune p\u00e2le encore visible \u00e0 l\u2019aube)\n\t\u2022\tla cible est \u00e0 demi cach\u00e9e par l\u2019arc : Hangetsu (demi-lune)\n\t\u2022\tla cible est masqu\u00e9e par l\u2019arc : Yami (obscurit\u00e9).\nP58, 71, 74",
+        "short_solution": "Vis\u00e9e."
     },
     {
         "concept": "Nobiai (\u4f38\u5408\u3044)",
-        "solution": "Extension. Cette action suit Tsumeai, et permet de remplacer la force restant dans les bras par l\u2019extension du corps \u00e0 gauche et \u00e0 droite en utilisant les omoplates, les muscles de la poitrine et le corps tout entier, dans toutes les directions. \nP68, 69-70, 72, 73, 74, 133"
+        "solution": "Extension. Cette action suit Tsumeai, et permet de remplacer la force restant dans les bras par l\u2019extension du corps \u00e0 gauche et \u00e0 droite en utilisant les omoplates, les muscles de la poitrine et le corps tout entier, dans toutes les directions. \nP68, 69-70, 72, 73, 74, 133",
+        "short_solution": "Extension."
     },
     {
         "concept": "Ochi (\u843d \u2013 \u5927\u5f8c)",
-        "solution": "Dernier tireur dans un groupe."
+        "solution": "Dernier tireur dans un groupe.",
+        "short_solution": "Dernier tireur dans un groupe."
     },
     {
         "concept": "No shirabe (\u7be6\u8abf\u3079)",
-        "solution": "V\u00e9rification de l\u2019encochage pendant Yugamae, puis de la direction de la fl\u00e8che. \nP81, 128"
+        "solution": "V\u00e9rification de l\u2019encochage pendant Yugamae, puis de la direction de la fl\u00e8che. \nP81, 128",
+        "short_solution": "V\u00e9rification de l\u2019encochage pendant Yugamae, puis de la direction de la fl\u00e8che."
     },
     {
         "concept": "Otoya (\u4e59\u77e2)",
-        "solution": "Deuxi\u00e8me fl\u00e8che de la paire utilis\u00e9e. La courbe des plumes est orient\u00e9e dans le sens des aiguilles d\u2019une montre. \nP53, 54, 55, 81, 82, 84, 87, 89, 90, 97, 98, 99, 101, 103, 104, 108, 117"
+        "solution": "Deuxi\u00e8me fl\u00e8che de la paire utilis\u00e9e. La courbe des plumes est orient\u00e9e dans le sens des aiguilles d\u2019une montre. \nP53, 54, 55, 81, 82, 84, 87, 89, 90, 97, 98, 99, 101, 103, 104, 108, 117",
+        "short_solution": "Deuxi\u00e8me fl\u00e8che de la paire utilis\u00e9e."
     },
     {
         "concept": "Omae (\u5927\u524d)",
-        "solution": "Premier tireur dans un groupe.\n P104"
+        "solution": "Premier tireur dans un groupe.\n P104",
+        "short_solution": "Premier tireur dans un groupe."
     },
     {
         "concept": "Renshi (\u932c\u58eb)",
-        "solution": "Entra\u00eeneur, instructeur. Titre acquis par examen accessible \u00e0 partir du 5\u00e8me dan. \nP125"
+        "solution": "Entra\u00eeneur, instructeur. Titre acquis par examen accessible \u00e0 partir du 5\u00e8me dan. \nP125",
+        "short_solution": "Entra\u00eeneur, instructeur."
     },
     {
         "concept": "Rei (\u793c)",
-        "solution": "Salut. \nP8, 14, 18, 19, 20, 24, 27, 29, 42, 48, 93"
+        "solution": "Salut. \nP8, 14, 18, 19, 20, 24, 27, 29, 42, 48, 93",
+        "short_solution": "Salut."
     },
     {
         "concept": "Seiza (\u6b63\u5750)",
-        "solution": "Position \u00e0 genoux, les orteils allong\u00e9s.\n P29, 33-34, 35, 36-37, 43, 49, 79"
+        "solution": "Position \u00e0 genoux, les orteils allong\u00e9s.\n P29, 33-34, 35, 36-37, 43, 49, 79",
+        "short_solution": "Position \u00e0 genoux, les orteils allong\u00e9s."
     },
     {
         "concept": "Rissha (\u7acb\u5c04)",
-        "solution": "Tir debout. (Voir aussi Zasha) \nP106"
+        "solution": "Tir debout. (Voir aussi Zasha) \nP106",
+        "short_solution": "Tir debout."
     },
     {
         "concept": "Sensei",
-        "solution": "Enseignant. Titre utilis\u00e9 pour s\u2019adresser \u00e0 l\u2019enseignant."
+        "solution": "Enseignant. Titre utilis\u00e9 pour s\u2019adresser \u00e0 l\u2019enseignant.",
+        "short_solution": "Enseignant."
     },
     {
         "concept": "Sempai",
-        "solution": "Personne plus exp\u00e9riment\u00e9e."
+        "solution": "Personne plus exp\u00e9riment\u00e9e.",
+        "short_solution": "Personne plus exp\u00e9riment\u00e9e."
     },
     {
         "concept": "Shai (\u5c04\u4f4d)",
-        "solution": "Ligne de tir, dans le dojo. \nP30, 38, 60, 78, 80, 81, 82, 83, 84, 85, 86, 87, 89, 92, 96, 97, 100, 101, 102, 103, 106, 107, 108, 109, 110, 111, 112, 114, 115, 118, 124"
+        "solution": "Ligne de tir, dans le dojo. \nP30, 38, 60, 78, 80, 81, 82, 83, 84, 85, 86, 87, 89, 92, 96, 97, 100, 101, 102, 103, 106, 107, 108, 109, 110, 111, 112, 114, 115, 118, 124",
+        "short_solution": "Ligne de tir, dans le dojo."
     },
     {
         "concept": "Shah\u00f4 hassetsu (\u5c04\u6cd5\u516b\u7bc0)",
-        "solution": "Les huit \u00e9tapes du tir. \nP56, 57, 59, 127"
+        "solution": "Les huit \u00e9tapes du tir. \nP56, 57, 59, 127",
+        "short_solution": "Les huit \u00e9tapes du tir."
     },
     {
         "concept": "Shinsa",
-        "solution": "Examen."
+        "solution": "Examen.",
+        "short_solution": "Examen."
     },
     {
         "concept": "Sharei (\u5c04\u793c)",
-        "solution": "C\u00e9r\u00e9monie de tir. \nP18, 20, 21, 75, 77, 110, 120"
+        "solution": "C\u00e9r\u00e9monie de tir. \nP18, 20, 21, 75, 77, 110, 120",
+        "short_solution": "C\u00e9r\u00e9monie de tir."
     },
     {
         "concept": "Shitagake",
-        "solution": "Sous-gant."
+        "solution": "Sous-gant.",
+        "short_solution": "Sous-gant."
     },
     {
         "concept": "Shin zen bi (\u771f\u5584\u7f8e)",
-        "solution": "La v\u00e9rit\u00e9, la vertu (bont\u00e9) et l\u2019expression de la beaut\u00e9. \nP27, 75"
+        "solution": "La v\u00e9rit\u00e9, la vertu (bont\u00e9) et l\u2019expression de la beaut\u00e9. \nP27, 75",
+        "short_solution": "La v\u00e9rit\u00e9, la vertu (bont\u00e9) et l\u2019expression de la beaut\u00e9."
     },
     {
         "concept": "Tabi (\u8db3\u888b)",
-        "solution": "Chaussettes avec le pouce s\u00e9par\u00e9, permettant l\u2019utilisation de sandales (Zori). \nP120"
+        "solution": "Chaussettes avec le pouce s\u00e9par\u00e9, permettant l\u2019utilisation de sandales (Zori). \nP120",
+        "short_solution": "Chaussettes avec le pouce s\u00e9par\u00e9, permettant l\u2019utilisation de sandales (Zori)."
     },
     {
         "concept": "Shitsu (\u5931)",
-        "solution": "Faute (faire tomber l\u2019arc ou la fl\u00e8che, casser une corde\u2026) ou faute d\u2019\u00e9tiquette. \nP100, 109, 116"
+        "solution": "Faute (faire tomber l\u2019arc ou la fl\u00e8che, casser une corde\u2026) ou faute d\u2019\u00e9tiquette. \nP100, 109, 116",
+        "short_solution": "Faute (faire tomber l\u2019arc ou la fl\u00e8che, casser une corde\u2026) ou faute d\u2019\u00e9tiquette."
     },
     {
         "concept": "Tanden (\u4e39\u7530)",
-        "solution": "Centre de l\u2019\u00e9nergie situ\u00e9 sous le nombril (voir Hara), contre la colonne vert\u00e9brale \nP25, 31, 33, 61, 128, 129, 130, 133"
+        "solution": "Centre de l\u2019\u00e9nergie situ\u00e9 sous le nombril (voir Hara), contre la colonne vert\u00e9brale \nP25, 31, 33, 61, 128, 129, 130, 133",
+        "short_solution": "Centre de l\u2019\u00e9nergie situ\u00e9 sous le nombril (voir Hara), contre la colonne vert\u00e9brale \nP25, 31, 33, 61, 128, 129, 130, 133"
     },
     {
         "concept": "Taihai (\u4f53\u914d)",
-        "solution": "Harmonie du corps et des mouvements (voir Kihon taikei). \nP8, 57"
+        "solution": "Harmonie du corps et des mouvements (voir Kihon taikei). \nP8, 57",
+        "short_solution": "Harmonie du corps et des mouvements (voir Kihon taikei)."
     },
     {
         "concept": "Tenouchi (\u624b\u306e\u5185)",
-        "solution": "Technique de prise en main de la poign\u00e9e de l\u2019arc. Ce terme peut-\u00eatre utilis\u00e9 \u00e9galement pour la main droite. \nP57, 62, 63-64, 74, 129, 131, 132"
+        "solution": "Technique de prise en main de la poign\u00e9e de l\u2019arc. Ce terme peut-\u00eatre utilis\u00e9 \u00e9galement pour la main droite. \nP57, 62, 63-64, 74, 129, 131, 132",
+        "short_solution": "Technique de prise en main de la poign\u00e9e de l\u2019arc."
     },
     {
         "concept": "Tatesen",
-        "solution": "Ligne verticale passant par la t\u00eate."
+        "solution": "Ligne verticale passant par la t\u00eate.",
+        "short_solution": "Ligne verticale passant par la t\u00eate."
     },
     {
         "concept": "Toriyumi no shisei \n(\u57f7\u5f13\u306e\u59ff\u52e2)",
-        "solution": "Mani\u00e8re de tenir l\u2019arc dans le Kihon tai (en marchant)\nP38, 46, 48, 79, 83, 86, 89, 103, 105, 106"
+        "solution": "Mani\u00e8re de tenir l\u2019arc dans le Kihon tai (en marchant)\nP38, 46, 48, 79, 83, 86, 89, 103, 105, 106",
+        "short_solution": "Mani\u00e8re de tenir l\u2019arc dans le Kihon tai (en marchant)\nP38, 46, 48, 79, 83, 86, 89, 103, 105, 106"
     },
     {
         "concept": "Torikake (\u53d6\u61f8\u3051)",
-        "solution": "Encoche du gant sur la corde. \nP62, 63, 64, 100, 102, 105, 106, 107, 108, 129"
+        "solution": "Encoche du gant sur la corde. \nP62, 63, 64, 100, 102, 105, 106, 107, 108, 129",
+        "short_solution": "Encoche du gant sur la corde."
     },
     {
         "concept": "Tsunomi (\u89d2\u898b)",
-        "solution": "Base du pouce gauche, utilis\u00e9e pour le contr\u00f4le du Tenouchi.\n P69"
+        "solution": "Base du pouce gauche, utilis\u00e9e pour le contr\u00f4le du Tenouchi.\n P69",
+        "short_solution": "Base du pouce gauche, utilis\u00e9e pour le contr\u00f4le du Tenouchi."
     },
     {
         "concept": "Tsumeai (\u8a70\u5408\u3044)",
-        "solution": "Action effectu\u00e9e \u00e0 partir de Sanbun no Ni consistant \u00e0 ancrer les cinq points n\u00e9cessaires pour le Nobiai et le Kai, soit les deux jambes, les deux bras et le torse.\n P68, 69"
+        "solution": "Action effectu\u00e9e \u00e0 partir de Sanbun no Ni consistant \u00e0 ancrer les cinq points n\u00e9cessaires pour le Nobiai et le Kai, soit les deux jambes, les deux bras et le torse.\n P68, 69",
+        "short_solution": "Action effectu\u00e9e \u00e0 partir de Sanbun no Ni consistant \u00e0 ancrer les cinq points n\u00e9cessaires pour le Nobiai et le Kai, soit les deux jambes, les deux bras et le torse."
     },
     {
         "concept": "Tsurune (\u5f26\u97f3)",
-        "solution": "Son produit par la corde au d\u00e9part de la fl\u00e8che. \nP20, 100, 103, 108"
+        "solution": "Son produit par la corde au d\u00e9part de la fl\u00e8che. \nP20, 100, 103, 108",
+        "short_solution": "Son produit par la corde au d\u00e9part de la fl\u00e8che."
     },
     {
         "concept": "Tsuru (\u5f26)",
-        "solution": "Corde."
+        "solution": "Corde.",
+        "short_solution": "Corde."
     },
     {
         "concept": "Uchiokoshi (\u6253\u8d77\u3057)",
-        "solution": "El\u00e9vation de l\u2019arc. Quatri\u00e8me \u00e9tape du tir. \nP59, 64-65, 108, 130, 131"
+        "solution": "El\u00e9vation de l\u2019arc. Quatri\u00e8me \u00e9tape du tir. \nP59, 64-65, 108, 130, 131",
+        "short_solution": "El\u00e9vation de l\u2019arc."
     },
     {
         "concept": "Tsuru shirabe (\u5f26\u8abf\u3079)",
-        "solution": "Examen visuel de la corde durant Yugamae, en partant du centre puis en faisant monter le regard jusqu\u2019au tiers vers le haut, puis m\u00eame action vers le bas.\n P30, 58, 81, 84, 100, 103, 128"
+        "solution": "Examen visuel de la corde durant Yugamae, en partant du centre puis en faisant monter le regard jusqu\u2019au tiers vers le haut, puis m\u00eame action vers le bas.\n P30, 58, 81, 84, 100, 103, 128",
+        "short_solution": "Examen visuel de la corde durant Yugamae, en partant du centre puis en faisant monter le regard jusqu\u2019au tiers vers le haut, puis m\u00eame action vers le bas."
     },
     {
         "concept": "Yatate (\u77e2\u7acb\u7bb1)",
-        "solution": "Boite en bois pour mettre les fl\u00e8ches."
+        "solution": "Boite en bois pour mettre les fl\u00e8ches.",
+        "short_solution": "Boite en bois pour mettre les fl\u00e8ches."
     },
     {
         "concept": "Ya (\u77e2)",
-        "solution": "Fl\u00e8che."
+        "solution": "Fl\u00e8che.",
+        "short_solution": "Fl\u00e8che."
     },
     {
         "concept": "Yatsugae (\u77e2\u756a\u3048)",
-        "solution": "Action de disposer les deux fl\u00e8ches sur l\u2019arc avant le tir. \nP80, 83, 87, 91, 107, 110, 115, 116"
+        "solution": "Action de disposer les deux fl\u00e8ches sur l\u2019arc avant le tir. \nP80, 83, 87, 91, 107, 110, 115, 116",
+        "short_solution": "Action de disposer les deux fl\u00e8ches sur l\u2019arc avant le tir."
     },
     {
         "concept": "Yatori",
-        "solution": "Action d\u2019aller rechercher les fl\u00e8ches apr\u00e8s un tir."
+        "solution": "Action d\u2019aller rechercher les fl\u00e8ches apr\u00e8s un tir.",
+        "short_solution": "Action d\u2019aller rechercher les fl\u00e8ches apr\u00e8s un tir."
     },
     {
         "concept": "Yokosen",
-        "solution": "Ligne des \u00e9paules, horizontale."
+        "solution": "Ligne des \u00e9paules, horizontale.",
+        "short_solution": "Ligne des \u00e9paules, horizontale."
     },
     {
         "concept": "Yazuka (\u77e2\u675f)",
-        "solution": "Longueur ajust\u00e9e de la fl\u00e8che. Mesure \u00e9galement l\u2019\u00e9cart entre les deux pouces des pieds en Ashibumi, et la distance entre le sol et le centre de gravit\u00e9 (Tanden).\n P60, 127, 128"
+        "solution": "Longueur ajust\u00e9e de la fl\u00e8che. Mesure \u00e9galement l\u2019\u00e9cart entre les deux pouces des pieds en Ashibumi, et la distance entre le sol et le centre de gravit\u00e9 (Tanden).\n P60, 127, 128",
+        "short_solution": "Longueur ajust\u00e9e de la fl\u00e8che."
     },
     {
         "concept": "Yudaoshi (\u5f13\u5012\u3057)",
-        "solution": "Mouvement suivant la derni\u00e8re \u00e9tape du tir (Zanshin), permettant de ramener les deux mains sur les hanches.\n P72, 73, 81, 84, 85, 92, 97, 98, 100, 103, 104, 108, 112, 129, 133"
+        "solution": "Mouvement suivant la derni\u00e8re \u00e9tape du tir (Zanshin), permettant de ramener les deux mains sur les hanches.\n P72, 73, 81, 84, 85, 92, 97, 98, 100, 103, 104, 108, 112, 129, 133",
+        "short_solution": "Mouvement suivant la derni\u00e8re \u00e9tape du tir (Zanshin), permettant de ramener les deux mains sur les hanches."
     },
     {
         "concept": "Y\u00fb (\u63d6)",
-        "solution": "Inclinaison du buste pour le salut. \nP19, 29, 30, 47-48, 79, 80, 82, 84, 86, 89, 91, 96, 98, 102, 106, 107, 108"
+        "solution": "Inclinaison du buste pour le salut. \nP19, 29, 30, 47-48, 79, 80, 82, 84, 86, 89, 91, 96, 98, 102, 106, 107, 108",
+        "short_solution": "Inclinaison du buste pour le salut."
     },
     {
         "concept": "Yugamae (\u5f13\u69cb\u3048)",
-        "solution": "Positionnement de l\u2019arc, puis du mental. Troisi\u00e8me \u00e9tape du tir.\n P59, 62-63, 65, 100, 130"
+        "solution": "Positionnement de l\u2019arc, puis du mental. Troisi\u00e8me \u00e9tape du tir.\n P59, 62-63, 65, 100, 130",
+        "short_solution": "Positionnement de l\u2019arc, puis du mental."
     },
     {
         "concept": "Yugaeri (\u5f13\u8fd4\u308a)",
-        "solution": "Mouvement r\u00e9actif de l\u2019arc apr\u00e8s la d\u00e9coche. La trajectoire de la corde va dans le sens inverse des aiguilles d\u2019une montre, et ram\u00e8ne la corde pr\u00e8s du c\u00f4t\u00e9 externe du poignet gauche du tireur."
+        "solution": "Mouvement r\u00e9actif de l\u2019arc apr\u00e8s la d\u00e9coche. La trajectoire de la corde va dans le sens inverse des aiguilles d\u2019une montre, et ram\u00e8ne la corde pr\u00e8s du c\u00f4t\u00e9 externe du poignet gauche du tireur.",
+        "short_solution": "Mouvement r\u00e9actif de l\u2019arc apr\u00e8s la d\u00e9coche."
     },
     {
         "concept": "Yunde (\u5f13\u624b)",
-        "solution": "Main gauche ou pouce gauche.\n PIX, 25, 67"
+        "solution": "Main gauche ou pouce gauche.\n P9, 25, 67",
+        "short_solution": "Main gauche ou pouce gauche."
     },
     {
         "concept": "Yumibukuro",
-        "solution": "Fourreau en tissu pour l\u2019arc."
+        "solution": "Fourreau en tissu pour l\u2019arc.",
+        "short_solution": "Fourreau en tissu pour l\u2019arc."
     },
     {
         "concept": "Zanshin (\u6b8b\u8eab \/ \u6b8b\u5fc3)",
-        "solution": "Derni\u00e8re phase du tir, apr\u00e8s la d\u00e9coche, o\u00f9 le tireur garde la posture de Tateyokoj\u00fbmonji et exprime sa dignit\u00e9 et le reflet de son \u00e2me.Il y a deux mani\u00e8res d\u2019\u00e9crire Zanshin en japonais : la premi\u00e8re est \u00ab laisser le corps exprimer le maintien de la posture \u00bb ou Zanshin ext\u00e9rieur (\u6b8b\u8eab) ; la deuxi\u00e8me est \u00ab laisser le c\u0153ur exprimer la partie spirituelle \u00bb, ou Zanshin int\u00e9rieur (\u6b8b\u5fc3). \nP26, 31, 59, 72-73, 133"
+        "solution": "Derni\u00e8re phase du tir, apr\u00e8s la d\u00e9coche, o\u00f9 le tireur garde la posture de Tateyokoj\u00fbmonji et exprime sa dignit\u00e9 et le reflet de son \u00e2me.Il y a deux mani\u00e8res d\u2019\u00e9crire Zanshin en japonais : la premi\u00e8re est \u00ab laisser le corps exprimer le maintien de la posture \u00bb ou Zanshin ext\u00e9rieur (\u6b8b\u8eab) ; la deuxi\u00e8me est \u00ab laisser le c\u0153ur exprimer la partie spirituelle \u00bb, ou Zanshin int\u00e9rieur (\u6b8b\u5fc3). \nP26, 31, 59, 72-73, 133",
+        "short_solution": "Derni\u00e8re phase du tir, apr\u00e8s la d\u00e9coche, o\u00f9 le tireur garde la posture de Tateyokoj\u00fbmonji et exprime sa dignit\u00e9 et le reflet de son \u00e2me."
     },
     {
         "concept": "Yurumi",
-        "solution": "Rel\u00e2chement de la tension du coude droit avant Hanare, entra\u00eenant un retour en avant du bras droit."
+        "solution": "Rel\u00e2chement de la tension du coude droit avant Hanare, entra\u00eenant un retour en avant du bras droit.",
+        "short_solution": "Rel\u00e2chement de la tension du coude droit avant Hanare, entra\u00eenant un retour en avant du bras droit."
     },
     {
         "concept": "Sh\u00f4dan (\u521d\u6bb5)",
-        "solution": "Premier dan.\n P 126"
+        "solution": "Premier dan.\n P 126",
+        "short_solution": "Premier dan."
     },
     {
         "concept": "Zori",
-        "solution": "Sandales. \u00ab Tong \u00bb."
+        "solution": "Sandales. \u00ab Tong \u00bb.",
+        "short_solution": "Sandales."
     },
     {
         "concept": "San dan (\u4e09\u6bb5)",
-        "solution": "Troisi\u00e8me dan.\n P126"
+        "solution": "Troisi\u00e8me dan.\n P126",
+        "short_solution": "Troisi\u00e8me dan."
     },
     {
         "concept": "Ni dan (\u4e8c\u6bb5)",
-        "solution": "Deuxi\u00e8me dan \nP126"
+        "solution": "Deuxi\u00e8me dan \nP126",
+        "short_solution": "Deuxi\u00e8me dan \nP126"
     },
     {
         "concept": "Habiki",
-        "solution": "Apr\u00e8s avoir termin\u00e9 Tenouchi et Torikake, il convient d\u2019\u00e9tendre le dos et les \u00e9paules pour remettre l\u2019\u00e9nergie dans les bras. Cette action, appel\u00e9e Habiki, fait l\u00e9g\u00e8rement tirer sur la corde, d\u00e9gageant les plumes de la fl\u00e8che de l\u2019arc."
+        "solution": "Apr\u00e8s avoir termin\u00e9 Tenouchi et Torikake, il convient d\u2019\u00e9tendre le dos et les \u00e9paules pour remettre l\u2019\u00e9nergie dans les bras. Cette action, appel\u00e9e Habiki, fait l\u00e9g\u00e8rement tirer sur la corde, d\u00e9gageant les plumes de la fl\u00e8che de l\u2019arc.",
+        "short_solution": "Apr\u00e8s avoir termin\u00e9 Tenouchi et Torikake, il convient d\u2019\u00e9tendre le dos et les \u00e9paules pour remettre l\u2019\u00e9nergie dans les bras."
     },
     {
         "concept": "Kamiza (\u4e0a\u5ea7) \/ Jyoza",
-        "solution": "Partie sur\u00e9lev\u00e9e du dojo face \u00e0 la ligne de tir (Shai), o\u00f9 s\u2019assoient les Sensei (voir Joza)."
+        "solution": "Partie sur\u00e9lev\u00e9e du dojo face \u00e0 la ligne de tir (Shai), o\u00f9 s\u2019assoient les Sensei (voir Joza).",
+        "short_solution": "Partie sur\u00e9lev\u00e9e du dojo face \u00e0 la ligne de tir (Shai), o\u00f9 s\u2019assoient les Sensei (voir Joza)."
     },
     {
         "concept": "Choshin",
-        "solution": "Relaxation de l\u2019\u00e2me et de l\u2019esprit pr\u00e9alable \u00e0 la pratique."
+        "solution": "Relaxation de l\u2019\u00e2me et de l\u2019esprit pr\u00e9alable \u00e0 la pratique.",
+        "short_solution": "Relaxation de l\u2019\u00e2me et de l\u2019esprit pr\u00e9alable \u00e0 la pratique."
     },
     {
         "concept": "Enso (\u5186\u76f8)",
-        "solution": "Sentiment de rondeur, avec un esprit calme et une respiration r\u00e9guli\u00e8re."
+        "solution": "Sentiment de rondeur, avec un esprit calme et une respiration r\u00e9guli\u00e8re.",
+        "short_solution": "Sentiment de rondeur, avec un esprit calme et une respiration r\u00e9guli\u00e8re."
     },
     {
         "concept": "Fudoshin",
-        "solution": "Esprit vide de tout attachement, sans doute, ni d\u00e9sir d\u2019atteindre la cible."
+        "solution": "Esprit vide de tout attachement, sans doute, ni d\u00e9sir d\u2019atteindre la cible.",
+        "short_solution": "Esprit vide de tout attachement, sans doute, ni d\u00e9sir d\u2019atteindre la cible."
     },
     {
         "concept": "Hashiriba (\u8d70\u308a\u7fbd)",
-        "solution": "Plume du dessus de la fl\u00e8che."
+        "solution": "Plume du dessus de la fl\u00e8che.",
+        "short_solution": "Plume du dessus de la fl\u00e8che."
     },
     {
         "concept": "Hikagami (\u8195)",
-        "solution": "Arri\u00e8re des genoux."
+        "solution": "Arri\u00e8re des genoux.",
+        "short_solution": "Arri\u00e8re des genoux."
     },
     {
         "concept": "Hoozuke (\u982c\u3065\u3051)",
-        "solution": "La fl\u00e8che touche la joue \u00e0 l\u2019extension compl\u00e8te."
+        "solution": "La fl\u00e8che touche la joue \u00e0 l\u2019extension compl\u00e8te.",
+        "short_solution": "La fl\u00e8che touche la joue \u00e0 l\u2019extension compl\u00e8te."
     },
     {
         "concept": "Kurikomi (\u7e70\u308a\u8fbc\u307f)",
-        "solution": "Pendant la mise en place des fl\u00e8ches, action de la main droite, glissant le long de la fl\u00e8che, la saisissant par l\u2019encoche et l\u2019amenant jusqu\u2019\u00e0 sa position pour encocher."
+        "solution": "Pendant la mise en place des fl\u00e8ches, action de la main droite, glissant le long de la fl\u00e8che, la saisissant par l\u2019encoche et l\u2019amenant jusqu\u2019\u00e0 sa position pour encocher.",
+        "short_solution": "Pendant la mise en place des fl\u00e8ches, action de la main droite, glissant le long de la fl\u00e8che, la saisissant par l\u2019encoche et l\u2019amenant jusqu\u2019\u00e0 sa position pour encocher."
     },
     {
         "concept": "Ky\u00fbd\u00f4gi (\u5f13\u9053\u4e0a\u7740)",
-        "solution": "V\u00eatement de base pour la pratique. Chemise blanche \u00e0 manches courtes."
+        "solution": "V\u00eatement de base pour la pratique. Chemise blanche \u00e0 manches courtes.",
+        "short_solution": "V\u00eatement de base pour la pratique."
     },
     {
         "concept": "Maai (\u9593\u5408\u3044)",
-        "solution": "Marquer un l\u00e9ger temps entre chaque mouvement, en accord avec la respiration, sans cr\u00e9er de rupture du mouvement. Harmonie du rythme."
+        "solution": "Marquer un l\u00e9ger temps entre chaque mouvement, en accord avec la respiration, sans cr\u00e9er de rupture du mouvement. Harmonie du rythme.",
+        "short_solution": "Marquer un l\u00e9ger temps entre chaque mouvement, en accord avec la respiration, sans cr\u00e9er de rupture du mouvement."
     },
     {
         "concept": "Mudansha",
-        "solution": "Pratiquant non grad\u00e9."
+        "solution": "Pratiquant non grad\u00e9.",
+        "short_solution": "Pratiquant non grad\u00e9."
     }
 ]

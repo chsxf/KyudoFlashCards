@@ -637,7 +637,7 @@ Fourreau en tissu pour l’arc.
 
 
 Main gauche ou pouce gauche.
- PIX, 25, 67
+ P9, 25, 67
 
 
 
