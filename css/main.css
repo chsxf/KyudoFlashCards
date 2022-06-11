@@ -4,15 +4,20 @@
 
 body {
   background-color: grey;
+  background-image: url("../images/gravel.jpg");
+  background-size: cover;
 }
 
 #center-container {
   background-color: brown;
+  background-image: url("../images/wood.webp");
+  background-size: cover;
   position: absolute;
   top: 0;
   bottom: 0;
   left: 5vw;
   right: 5vw;
+  box-shadow: 0 0 5px black;
 }
 
 #center-container h1 {
@@ -21,9 +26,11 @@ body {
 
   font-size: 24px;
   text-shadow: 0px 2px 3px rgba(0, 0, 0, 0.5);
+  text-align: center;
 
   position: absolute;
   left: 0px;
+  right: 0px;
   top: 0px;
   padding: 10px;
 }
@@ -38,6 +45,7 @@ body {
   bottom: 0;
   width: 100%;
   padding: 5px;
+  box-sizing: border-box;
 }
 
 #center-container footer a {
@@ -46,7 +54,7 @@ body {
 
 #game-container {
   position: absolute;
-  top: 75px;
+  top: 60px;
   bottom: 50px;
   left: 0;
   right: 0;
@@ -61,11 +69,13 @@ body {
   position: relative;
   border-radius: 20px;
   background-color: white;
-  width: 280px;
-  height: 280px;
+  width: 200px;
+  height: 200px;
   margin: 0 auto;
   box-shadow: 0 2px 3px rgba(0, 0, 0, 0.5);
   display: none;
+  background-image: url("../images/fabric.jpg");
+  background-size: cover;
 }
 
 #main-card p {
@@ -80,9 +90,9 @@ body {
 }
 
 #solution-options {
-  width: 280px;
+  width: 300px;
   margin: 0 auto;
-  margin-top: 25px;
+  margin-top: 20px;
   padding: 0;
   display: flex;
   flex-direction: column;
@@ -90,6 +100,7 @@ body {
 }
 
 #solution-options button {
+  color: black;
   box-sizing: border-box;
   border-style: none;
   border-radius: 5px;
@@ -102,22 +113,22 @@ body {
   font-family: serif;
   font-size: 14px;
   width: 100%;
+  background-image: url("../images/fabric.jpg");
+  background-size: cover;
 }
 
 #solution-options button.right {
-  color: white;
-  background-color: green;
+  background-blend-mode: multiply;
+  background-color: rgb(192, 255, 129);
 }
 
 #solution-options button.wrong {
-  color: white;
-  background-color: red;
+  opacity: 50%;
+  color: red;
 }
 
 #start-button,
 #next-button {
-  color: white;
-  background-color: blue;
   font-weight: bold;
   border-style: none;
   border-radius: 5px;
@@ -126,9 +137,20 @@ body {
   display: none;
 }
 
+#start-button {
+  color: brown;
+  background-color: beige;
+}
+
 #next-button {
+  color: white;
+  background-color: brown;
+}
+
+#next-button-container {
+  text-align: center;
   position: absolute;
   bottom: 10px;
-  left: 80px;
-  right: 80px;
+  left: 0;
+  right: 0;
 }
